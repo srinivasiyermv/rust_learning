@@ -1,2 +1,2 @@
 # rust_learning
-My learning about  Rust  System programming
+My learning about Rust  System programming language
